@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+  <!-- Red hexagon (PremiumHosting.cl) with a white latency pulse -->
+  <polygon points="276,72 748,72 984,512 748,952 276,952 40,512" fill="#d0382a"/>
+  <polygon points="276,72 748,72 984,512 748,952 276,952 40,512" fill="none" stroke="#b02c20" stroke-width="16"/>
+  <polyline points="190,560 380,560 450,340 560,720 640,470 690,560 834,560"
+            fill="none" stroke="#ffffff" stroke-width="72" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
